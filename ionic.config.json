@@ -1,5 +1,7 @@
 {
   "name": "test-ion-camera",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
